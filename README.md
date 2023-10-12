@@ -5,7 +5,7 @@
   3. User can sort the price and name.
   4. Pagination enables users to navigate through a large dataset by breaking it into multiple pages. It typically includes links or buttons for "Next," "Previous," and specific page numbers.
   5. Deploy on the render cloud platforms.
-  6. Docerize the applications.
+  6. Dockerize the applications.
   7. Write the automations testcases.
 
 ## Prerequisites:
